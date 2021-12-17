@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishuu005</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+https://Vishuu005smirnovs.github.io/github-profile-readme-generator/images/banner.png
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishuu005&label=Profile%20views&color=0e75b6&style=flat" alt="vishuu005" /> </p>
 
